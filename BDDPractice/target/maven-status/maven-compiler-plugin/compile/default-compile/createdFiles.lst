@@ -1,0 +1,6 @@
+Pages\LoginPage.class
+Pages\BasePage.class
+Pages\RegisterationPage.class
+Utilities\DriverSetup.class
+Pages\HomePage.class
+Utilities\BrowserActions.class
